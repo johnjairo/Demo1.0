@@ -1,2 +1,2 @@
-/Users/johnmartinez/Development/hello/platforms/android/bin/AndroidManifest.xml : \
-/Users/johnmartinez/Development/hello/platforms/android/AndroidManifest.xml \
+C:\Users\EdgarUnigarro\Documents\GitHub\Demo1.0\hello\platforms\android\bin\AndroidManifest.xml : \
+C:\Users\EdgarUnigarro\Documents\GitHub\Demo1.0\hello\platforms\android\AndroidManifest.xml \
